@@ -1,3 +1,4 @@
+
 function invmod([System.Numerics.BigInteger] $a,[System.Numerics.BigInteger] $n){   
      
     $exp = $t = $nt = $r = $nr = New-Object System.Numerics.BigInteger
